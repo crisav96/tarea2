@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tarea1
+namespace tarea2
 {
     internal class Program
     {
